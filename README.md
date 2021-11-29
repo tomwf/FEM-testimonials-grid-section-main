@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Testimonials grid section](https://your-live-site-url.com)
+- Live Site URL: [Testimonials grid section](https://tomwf.github.io/FEM-testimonials-grid-section-main/)
 
 ## My process
 
